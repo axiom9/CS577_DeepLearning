@@ -1,0 +1,13 @@
+The google drive folder is here:
+https://drive.google.com/drive/folders/1Ou1mVgbzP9G2dHwDrvZwcze_SSuf9UBu?usp=sharing
+
+Within the google drive folder are three models with the extension '.h5'. These are the three optimized models, you can load them in google colab
+after connecting / mounting google colab and downloading the folder and uploading it to your google drive (if that's the way to do it).
+Or simply modify the code to be able to load in the model. You will also find alongside the models, .data files and those are important too.
+Read the 'data.txt' file in this directory for more information.
+
+The model for CIFAR-10 data analysis is named as 'my_model_2.h5'
+
+The model for the Spam Data Analysis is 'spambase_model_2.h5'
+
+The model for Communities & Crime Data Analysis is 'model_crime_2.h5'

@@ -1,0 +1,19 @@
+The google drive folder is here:
+https://drive.google.com/drive/folders/1Ou1mVgbzP9G2dHwDrvZwcze_SSuf9UBu?usp=sharing
+
+In my code, the folder is named 'variables' and after I mounted my google drive in google colab, I could simply navigate within the folder to load the data.
+
+The data for the CIFAR-10 dataset analysis was acquired through an API call using tensorflow:
+https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar10/load_data
+
+The Spam Data can be acquired one of two ways:
+1. From my google drive folder (link above), the file is called 'spambase.data' and the data can be loaded using pd.read_csv. The respective information
+of the different variables can be found here (including the .names file): https://archive.ics.uci.edu/ml/datasets/spambase
+2. You can download it straight from the UCI ML Repository here:
+https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/
+
+The Communities and Crime Data can be acquired one of two ways:
+1. 1. From my google drive folder (link above), the file is called 'communities.data' and the data can be loaded using pd.read_csv. The respective information
+of the different variables can be found here (including the .names file, which is also in my google drive folder): https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime
+2. You can download it straight from the UCI ML Repo here:
+https://archive.ics.uci.edu/ml/machine-learning-databases/communities/
