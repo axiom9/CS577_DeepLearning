@@ -1,0 +1,14 @@
+kaggle.json -- can be any authorized api key with a kaggle account but we have provided our own as well.
+https://drive.google.com/file/d/1QGPPQQ7OxDKPfKssrLb4x7Ql7jvFWXLk/view?usp=share_link  
+
+
+
+#original data from kaggle
+https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection. -- the get_data function in the notebooks can download this directly
+with the kaggle.json file.
+
+
+
+#this contains a gzipped tar ball that has the images from original dataset in train,test,val folders with the left eye and right eye 
+#bounding boxes as jpgs. 
+preprocessed_data_into_lefteye_righteye: https://drive.google.com/file/d/1pMRXE4a6vwworhQUgIGre1BIL6ZOu8q_/view?usp=share_link
