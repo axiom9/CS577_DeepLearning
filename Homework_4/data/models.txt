@@ -1,0 +1,5 @@
+inception_block model: https://drive.google.com/file/d/1LoKq0cZ3PwBJHyUhokyxAJIjxvFZf_g1/view?usp=share_link
+
+residual model: https://drive.google.com/file/d/1-8kj94x7HhW6rBXY0J02-0J8CEOgpQF5/view?usp=share_link
+
+naive cnn: https://drive.google.com/file/d/1834SxTtmfVTnxy2CNBY5hdQgU-NgEGeJ/view?usp=share_link

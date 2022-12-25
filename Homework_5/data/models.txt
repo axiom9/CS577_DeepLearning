@@ -1,0 +1,15 @@
+simple_model: https://drive.google.com/file/d/16CWDnyXtNdG_u3W8jJWjH2i1WQRGoqdr/view?usp=sharing
+
+simple model with glove embedding, fixed weights: https://drive.google.com/file/d/1ZFWC4Vj2FyxHaohc9_C_vFrptyDKL_QE/view?usp=sharing
+
+simple model with glove embedding, fine-tuned with lstm: https://drive.google.com/file/d/1DKWtb00PHCwVbzi3tmkAZgBpBw1irXlH/view?usp=sharing
+
+naive topic model: https://drive.google.com/file/d/1euYi1U4Bw4XIE_s_O4GF3LlM1K0YgSnX/view?usp=sharing
+
+naive topic model w glove embedding, fixed weights: https://drive.google.com/file/d/1ao5c_WsCe6S3WfB0RBTDSP60bK5aRk9r/view?usp=sharing
+
+naive topic model w glove embedding, fine-tuned: https://drive.google.com/file/d/1KuJ1LMo2WlHNirIobzcldPd0ZYF9yqF5/view?usp=sharing
+
+topic model w glove embedding, fine-tuned with ONE lstm layer: https://drive.google.com/file/d/10lPgpFM5C8IrlDiUNeMwVc2DexO7cJS6/view?usp=sharing
+
+topic model w glove embedding, fine-tuned with TWO lstm layers: https://drive.google.com/file/d/1RcYGiw9lLmCzHXYPG2Sd2p5cotapvCCA/view?usp=sharing
